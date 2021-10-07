@@ -6,3 +6,7 @@ h1 {
 
 .board {
   width: 600px;
+  height: 400px;
+  background: #DDD;
+  margin: 20px auto;
+  position: relative;

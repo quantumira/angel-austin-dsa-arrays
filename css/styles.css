@@ -27,3 +27,6 @@ h1 {
   .elem.food {
     background-image: url(../images/food.svg); }
   .elem.water {
+    background-image: url(../images/water.svg); }
+  .elem.litter {
+    background-image: url(../images/litterbox.svg); }

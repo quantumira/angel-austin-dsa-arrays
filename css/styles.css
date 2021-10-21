@@ -30,3 +30,9 @@ h1 {
     background-image: url(../images/water.svg); }
   .elem.litter {
     background-image: url(../images/litterbox.svg); }
+  .elem.toy {
+    background-image: url(../images/toy.svg); }
+
+.cat {
+  bottom: 0;
+  background-image: url("../images/cat.svg");

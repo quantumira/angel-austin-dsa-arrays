@@ -36,3 +36,6 @@ h1 {
 .cat {
   bottom: 0;
   background-image: url("../images/cat.svg");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: center center; }

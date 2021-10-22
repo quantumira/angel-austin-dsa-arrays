@@ -39,3 +39,6 @@ h1 {
   background-repeat: no-repeat;
   background-size: auto 100%;
   background-position: center center; }
+  .cat.angry {
+    background-color: red;
+    background-image: url("../images/cat-angry.svg"); }

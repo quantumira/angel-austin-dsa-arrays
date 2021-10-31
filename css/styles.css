@@ -45,3 +45,6 @@ h1 {
     .cat.angry:after {
       content: ": ANGRY"; }
   .cat.hungry {
+    background-color: orange;
+    background-image: url("../images/cat-hungry.svg"); }
+    .cat.hungry:after {

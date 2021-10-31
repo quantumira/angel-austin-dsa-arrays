@@ -51,3 +51,7 @@ h1 {
       content: ": hungry"; }
   .cat.thirsty {
     background-color: dodgerblue;
+    background-image: url("../images/cat-thirsty.svg"); }
+    .cat.thirsty:after {
+      content: ": thirsty"; }
+  .cat.dirty {

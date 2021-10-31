@@ -48,3 +48,6 @@ h1 {
     background-color: orange;
     background-image: url("../images/cat-hungry.svg"); }
     .cat.hungry:after {
+      content: ": hungry"; }
+  .cat.thirsty {
+    background-color: dodgerblue;

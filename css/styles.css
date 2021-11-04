@@ -55,3 +55,9 @@ h1 {
     .cat.thirsty:after {
       content: ": thirsty"; }
   .cat.dirty {
+    background-color: saddlebrown;
+    background-image: url("../images/cat-dirty.svg"); }
+    .cat.dirty:after {
+      content: ": dirty"; }
+  .cat.bored {
+    background-color: white;

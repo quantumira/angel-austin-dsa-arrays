@@ -66,3 +66,7 @@ h1 {
       content: ": bored"; }
   .cat.content {
     background-color: palegoldenrod;
+    background-image: url("../images/cat-content.svg"); }
+    .cat.content:after {
+      content: ": content"; }
+  .cat.happy {

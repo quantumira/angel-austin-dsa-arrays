@@ -72,3 +72,6 @@ h1 {
   .cat.happy {
     background-color: yellow;
     background-image: url("../images/cat-happy.svg"); }
+    .cat.happy:after {
+      content: ": HAPPY!"; }
+  .cat:after {

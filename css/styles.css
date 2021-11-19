@@ -75,3 +75,4 @@ h1 {
     .cat.happy:after {
       content: ": HAPPY!"; }
   .cat:after {
+    display: none; }

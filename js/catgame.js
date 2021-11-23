@@ -1,2 +1,2 @@
 (function($) {
-    var board
+    var board;

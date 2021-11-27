@@ -1,3 +1,3 @@
 (function($) {
     var board;
-    var 
+    var cats

@@ -1,4 +1,4 @@
 (function($) {
     var board;
     var cats = [];
-    var elemTypes = ['toy', 'food', 'water', 'litt
+    var elemTypes = ['toy', 'food', 'water', 'litte

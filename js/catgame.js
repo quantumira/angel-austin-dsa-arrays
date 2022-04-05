@@ -2,4 +2,5 @@
     var board;
     var cats = [];
     var elemTypes = ['toy', 'food', 'water', 'litter'];
-    var feelings = ['bored', 'hungry', 'thirsty', 'dirty', 'conte
+    var feelings = ['bored', 'hungry', 'thirsty', 'dirty', 'content'];
+  

@@ -4,3 +4,5 @@
     var elemTypes = ['toy', 'food', 'water', 'litter'];
     var feelings = ['bored', 'hungry', 'thirsty', 'dirty', 'content'];
     var activeElem;
+
+   

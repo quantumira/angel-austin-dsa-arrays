@@ -5,4 +5,4 @@
     var feelings = ['bored', 'hungry', 'thirsty', 'dirty', 'content'];
     var activeElem;
 
-    var randElem = function(a
+    var randElem = function(arr

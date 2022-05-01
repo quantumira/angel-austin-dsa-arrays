@@ -6,4 +6,4 @@
     var activeElem;
 
     var randElem = function(arr) {
-        return ar
+        return arr[

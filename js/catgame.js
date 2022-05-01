@@ -6,4 +6,4 @@
     var activeElem;
 
     var randElem = function(arr) {
-        return arr[Math.flo
+        return arr[Math.floor(Ma

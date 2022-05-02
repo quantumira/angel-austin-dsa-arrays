@@ -9,4 +9,4 @@
         return arr[Math.floor(Math.random()*arr.length)];
     };
 
-    var Cat = fun
+    var Cat = functi

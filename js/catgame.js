@@ -9,4 +9,5 @@
         return arr[Math.floor(Math.random()*arr.length)];
     };
 
-    var Cat = function(i
+    var Cat = function(index) {
+ 

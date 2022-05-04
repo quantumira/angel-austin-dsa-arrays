@@ -10,4 +10,4 @@
     };
 
     var Cat = function(index) {
-        var _cat 
+        var _cat = {

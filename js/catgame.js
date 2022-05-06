@@ -11,4 +11,4 @@
 
     var Cat = function(index) {
         var _cat = {
-            div: $("<div class
+            div: $("<div class='

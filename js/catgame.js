@@ -11,4 +11,4 @@
 
     var Cat = function(index) {
         var _cat = {
-            div: $("<div class='tile cat'></div>").css("left", boar
+            div: $("<div class='tile cat'></div>").css("left", board.w

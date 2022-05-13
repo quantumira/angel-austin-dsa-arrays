@@ -13,4 +13,5 @@
         var _cat = {
             div: $("<div class='tile cat'></div>").css("left", board.width()*index/4),
             state: randElem(feelings)
-        
+        };
+  

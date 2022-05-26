@@ -15,4 +15,4 @@
             state: randElem(feelings)
         };
         _cat.otherStates = function() {
-            return $.grep(feelings, function (f) { return f != _cat.stat
+            return $.grep(feelings, function (f) { return f != _cat.state }

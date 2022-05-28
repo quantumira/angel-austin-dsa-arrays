@@ -17,3 +17,4 @@
         _cat.otherStates = function() {
             return $.grep(feelings, function (f) { return f != _cat.state });
         }
+ 

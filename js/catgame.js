@@ -18,4 +18,5 @@
             return $.grep(feelings, function (f) { return f != _cat.state });
         }
         _cat.div.click(function() {
-            if ((_cat.state == 'bored' && activeElem.type == 'toy'
+            if ((_cat.state == 'bored' && activeElem.type == 'toy')
+      

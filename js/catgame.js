@@ -20,4 +20,5 @@
         _cat.div.click(function() {
             if ((_cat.state == 'bored' && activeElem.type == 'toy')
                 || (_cat.state == 'hungry' && activeElem.type == 'food')
-                || (_cat.state == 'thirsty' && activeElem.type == 'water'
+                || (_cat.state == 'thirsty' && activeElem.type == 'water')
+   

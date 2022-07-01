@@ -22,4 +22,5 @@
                 || (_cat.state == 'hungry' && activeElem.type == 'food')
                 || (_cat.state == 'thirsty' && activeElem.type == 'water')
                 || (_cat.state == 'dirty' && activeElem.type == 'litter')) {
-                _cat.changeState(randElem(_cat.otherStates()))
+                _cat.changeState(randElem(_cat.otherStates()));
+  

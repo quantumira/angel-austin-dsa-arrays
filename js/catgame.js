@@ -23,4 +23,4 @@
                 || (_cat.state == 'thirsty' && activeElem.type == 'water')
                 || (_cat.state == 'dirty' && activeElem.type == 'litter')) {
                 _cat.changeState(randElem(_cat.otherStates()));
-            } else if (_ca
+            } else if (_cat.s

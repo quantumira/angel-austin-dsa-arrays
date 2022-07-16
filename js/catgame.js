@@ -25,4 +25,4 @@
                 _cat.changeState(randElem(_cat.otherStates()));
             } else if (_cat.state == 'happy'){
             } else if (_cat.state == 'angry'){
-            } else if (_cat.state == 'content' && activeElem.type == randE
+            } else if (_cat.state == 'content' && activeElem.type == randElem(ele

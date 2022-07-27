@@ -28,4 +28,4 @@
             } else if (_cat.state == 'content' && activeElem.type == randElem(elemTypes)){
                 _cat.changeState('happy');
                 var happy = true;
-             
+                fo

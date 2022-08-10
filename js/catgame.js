@@ -30,4 +30,5 @@
                 var happy = true;
                 for (var i=0; i<cats.length;i++) {
                     if (cats[i].state != 'happy') {
-                        happy = fals
+                        happy = false;
+ 

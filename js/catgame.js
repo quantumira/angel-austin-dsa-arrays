@@ -32,4 +32,4 @@
                     if (cats[i].state != 'happy') {
                         happy = false;
                     }
-  
+         

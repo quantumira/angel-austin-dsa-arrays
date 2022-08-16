@@ -34,4 +34,4 @@
                     }
                 }
                 if (happy) {
-                    alert("YOU WIN!! Y
+                    alert("YOU WIN!! YOU'

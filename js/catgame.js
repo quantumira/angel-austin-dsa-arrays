@@ -38,3 +38,4 @@
                 }
             } else {
                 _cat.changeState('angry');
+     

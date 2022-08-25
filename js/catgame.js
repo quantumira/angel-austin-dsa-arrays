@@ -37,4 +37,4 @@
                     alert("YOU WIN!! YOU'RE THE BEST CAT LADY!");
                 }
             } else {
-                _cat.changeState('a
+                _cat.changeState('angry

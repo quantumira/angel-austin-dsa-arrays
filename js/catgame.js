@@ -38,4 +38,4 @@
                 }
             } else {
                 _cat.changeState('angry');
-                setTimeou
+                setTimeout(fu

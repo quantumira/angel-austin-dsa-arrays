@@ -38,4 +38,5 @@
                 }
             } else {
                 _cat.changeState('angry');
-                setTimeout(function()
+                setTimeout(function() {
+  

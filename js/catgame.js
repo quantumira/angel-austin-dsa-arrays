@@ -39,4 +39,4 @@
             } else {
                 _cat.changeState('angry');
                 setTimeout(function() {
-                    _cat.changeState(randElem
+                    _cat.changeState(randElem(fe

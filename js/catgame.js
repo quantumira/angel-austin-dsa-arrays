@@ -40,4 +40,5 @@
                 _cat.changeState('angry');
                 setTimeout(function() {
                     _cat.changeState(randElem(feelings));
-                }, 10000
+                }, 10000);
+ 

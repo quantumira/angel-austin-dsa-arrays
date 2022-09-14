@@ -42,4 +42,5 @@
                     _cat.changeState(randElem(feelings));
                 }, 10000);
             }
-            activeElem.changeType(
+            activeElem.changeType();
+  

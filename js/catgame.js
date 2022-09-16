@@ -43,4 +43,4 @@
                 }, 10000);
             }
             activeElem.changeType();
-        }
+        });

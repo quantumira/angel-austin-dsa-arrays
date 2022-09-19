@@ -44,4 +44,4 @@
             }
             activeElem.changeType();
         });
-        _cat.changeState
+        _cat.changeState = functi

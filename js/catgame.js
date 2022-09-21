@@ -45,4 +45,4 @@
             activeElem.changeType();
         });
         _cat.changeState = function(newState) {
-            if(_cat.s
+            if(_cat.state !=

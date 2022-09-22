@@ -46,4 +46,4 @@
         });
         _cat.changeState = function(newState) {
             if(_cat.state != newState) {
-          
+                

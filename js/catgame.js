@@ -46,4 +46,4 @@
         });
         _cat.changeState = function(newState) {
             if(_cat.state != newState) {
-                console.log("Changed from " + _cat.state + ' to ' + newS
+                console.log("Changed from " + _cat.state + ' to ' + newStat

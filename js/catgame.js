@@ -48,4 +48,4 @@
             if(_cat.state != newState) {
                 console.log("Changed from " + _cat.state + ' to ' + newState);
 
-                _cat.div.removeClass(_cat.state).addClass(
+                _cat.div.removeClass(_cat.state).addClass(newS

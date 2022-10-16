@@ -49,4 +49,5 @@
                 console.log("Changed from " + _cat.state + ' to ' + newState);
 
                 _cat.div.removeClass(_cat.state).addClass(newState);
-                _cat.state = newSta
+                _cat.state = newState;
+   

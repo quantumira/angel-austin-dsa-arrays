@@ -51,4 +51,4 @@
                 _cat.div.removeClass(_cat.state).addClass(newState);
                 _cat.state = newState;
             }
- 
+    

@@ -52,4 +52,4 @@
                 _cat.state = newState;
             }
         };
-  
+        _

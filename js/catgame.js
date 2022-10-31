@@ -53,4 +53,5 @@
             }
         };
         _cat.div.addClass(_cat.state);
-        return _
+        return _cat;
+ 

@@ -56,4 +56,4 @@
         return _cat;
     };
 
-    var Elem = fu
+    var Elem = func

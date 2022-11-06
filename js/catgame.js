@@ -57,4 +57,4 @@
     };
 
     var Elem = function() {
-        var type = randEl
+        var type = randElem(

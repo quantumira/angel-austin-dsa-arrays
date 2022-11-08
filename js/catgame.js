@@ -58,4 +58,4 @@
 
     var Elem = function() {
         var type = randElem(elemTypes);
-        v
+        var 

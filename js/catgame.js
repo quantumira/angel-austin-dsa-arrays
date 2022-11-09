@@ -59,4 +59,4 @@
     var Elem = function() {
         var type = randElem(elemTypes);
         var _elem = {
-            div: $("<div class='tile
+            div: $("<div class='tile elem

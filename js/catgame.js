@@ -61,4 +61,4 @@
         var _elem = {
             div: $("<div class='tile elem active'></div>"),
             type: type
- 
+     

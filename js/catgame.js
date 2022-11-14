@@ -62,4 +62,4 @@
             div: $("<div class='tile elem active'></div>"),
             type: type
         };
-     
+        

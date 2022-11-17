@@ -62,4 +62,5 @@
             div: $("<div class='tile elem active'></div>"),
             type: type
         };
-        _elem.div.addClass(_elem.ty
+        _elem.div.addClass(_elem.type);
+ 

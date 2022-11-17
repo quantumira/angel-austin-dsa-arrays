@@ -63,4 +63,4 @@
             type: type
         };
         _elem.div.addClass(_elem.type);
-        _elem.othe
+        _elem.otherTypes 

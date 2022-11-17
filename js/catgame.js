@@ -63,4 +63,4 @@
             type: type
         };
         _elem.div.addClass(_elem.type);
-        _elem.otherTypes = funct
+        _elem.otherTypes = functi

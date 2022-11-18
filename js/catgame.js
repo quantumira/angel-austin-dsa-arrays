@@ -64,4 +64,4 @@
         };
         _elem.div.addClass(_elem.type);
         _elem.otherTypes = function() {
-            return $.grep(el
+            return $.grep(ele

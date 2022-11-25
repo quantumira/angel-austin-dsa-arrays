@@ -66,4 +66,4 @@
         _elem.otherTypes = function() {
             return $.grep(elemTypes, function (f) { return f != _elem.type });
         }
-        _
+        _elem

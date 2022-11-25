@@ -66,4 +66,4 @@
         _elem.otherTypes = function() {
             return $.grep(elemTypes, function (f) { return f != _elem.type });
         }
-        _elem.changeType = function
+        _elem.changeType = function() {

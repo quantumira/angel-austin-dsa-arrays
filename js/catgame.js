@@ -67,4 +67,5 @@
             return $.grep(elemTypes, function (f) { return f != _elem.type });
         }
         _elem.changeType = function() {
-            _elem.div.removeClass(_elem.type)
+            _elem.div.removeClass(_elem.type);
+ 

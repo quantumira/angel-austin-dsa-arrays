@@ -68,4 +68,4 @@
         }
         _elem.changeType = function() {
             _elem.div.removeClass(_elem.type);
- 
+     

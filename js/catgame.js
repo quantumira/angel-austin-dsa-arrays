@@ -69,4 +69,4 @@
         _elem.changeType = function() {
             _elem.div.removeClass(_elem.type);
             _elem.type = randElem(_elem.otherTypes());
-            _elem.div.ad
+            _elem.div.addCl

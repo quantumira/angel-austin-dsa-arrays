@@ -71,3 +71,4 @@
             _elem.type = randElem(_elem.otherTypes());
             _elem.div.addClass(_elem.type);
         };
+  

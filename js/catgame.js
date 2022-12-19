@@ -71,4 +71,4 @@
             _elem.type = randElem(_elem.otherTypes());
             _elem.div.addClass(_elem.type);
         };
-        _elem.div.click(fun
+        _elem.div.click(functio

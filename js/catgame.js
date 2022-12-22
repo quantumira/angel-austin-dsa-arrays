@@ -72,4 +72,5 @@
             _elem.div.addClass(_elem.type);
         };
         _elem.div.click(function() {
-            _elem.changeType()
+            _elem.changeType();
+  

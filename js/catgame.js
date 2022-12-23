@@ -73,4 +73,5 @@
         };
         _elem.div.click(function() {
             _elem.changeType();
-        
+        });
+ 

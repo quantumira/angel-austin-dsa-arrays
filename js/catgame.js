@@ -77,4 +77,4 @@
         return _elem;
     };
 
-    var setu
+    var setupBo

@@ -78,4 +78,4 @@
     };
 
     var setupBoard = function() {
-        b
+        board

@@ -77,4 +77,4 @@
         return _elem;
     };
 
-    var setupBoard = fun
+    var setupBoard = funct

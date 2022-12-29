@@ -77,4 +77,5 @@
         return _elem;
     };
 
-    var setupBoard = function() 
+    var setupBoard = function() {
+  

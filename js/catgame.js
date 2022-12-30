@@ -78,4 +78,4 @@
     };
 
     var setupBoard = function() {
-        board = $("
+        board = $(".boa

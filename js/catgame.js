@@ -79,4 +79,6 @@
 
     var setupBoard = function() {
         board = $(".board");
-    }
+    };
+
+  

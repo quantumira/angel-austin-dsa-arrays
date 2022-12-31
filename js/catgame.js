@@ -81,4 +81,4 @@
         board = $(".board");
     };
 
-    var addCat = functio
+    var addCat = function(i

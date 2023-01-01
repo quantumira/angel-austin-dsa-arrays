@@ -82,3 +82,4 @@
     };
 
     var addCat = function(index) {
+  

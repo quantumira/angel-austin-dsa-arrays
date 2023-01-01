@@ -82,4 +82,4 @@
     };
 
     var addCat = function(index) {
-        cats[index] = Cat(
+        cats[index] = Cat(i

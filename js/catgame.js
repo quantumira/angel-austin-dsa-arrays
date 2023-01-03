@@ -83,3 +83,4 @@
 
     var addCat = function(index) {
         cats[index] = Cat(index);
+  

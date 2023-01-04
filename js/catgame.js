@@ -83,4 +83,4 @@
 
     var addCat = function(index) {
         cats[index] = Cat(index);
-        boar
+        board.

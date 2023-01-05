@@ -83,4 +83,4 @@
 
     var addCat = function(index) {
         cats[index] = Cat(index);
-        board.append(cat
+        board.append(cats[in

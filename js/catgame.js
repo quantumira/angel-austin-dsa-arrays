@@ -87,4 +87,4 @@
     };
 
     var addElem = function() {
-        activeElem = Ele
+        activeElem = Elem();

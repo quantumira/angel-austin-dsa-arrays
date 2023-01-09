@@ -86,4 +86,4 @@
         board.append(cats[index].div);
     };
 
-    var addElem = function(
+    var addElem = function() {

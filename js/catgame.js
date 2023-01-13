@@ -88,4 +88,4 @@
 
     var addElem = function() {
         activeElem = Elem();
-        board.prepend(act
+        board.prepend(activeEl

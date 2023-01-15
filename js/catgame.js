@@ -89,4 +89,5 @@
     var addElem = function() {
         activeElem = Elem();
         board.prepend(activeElem.div);
-    }
+    };
+

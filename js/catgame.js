@@ -91,3 +91,4 @@
         board.prepend(activeElem.div);
     };
 
+    $(

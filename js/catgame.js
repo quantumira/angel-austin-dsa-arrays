@@ -91,4 +91,4 @@
         board.prepend(activeElem.div);
     };
 
-    $(document).read
+    $(document).ready(fu

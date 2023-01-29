@@ -91,4 +91,4 @@
         board.prepend(activeElem.div);
     };
 
-    $(document).ready(functio
+    $(document).ready(function() {

@@ -93,4 +93,4 @@
 
     $(document).ready(function() {
         setupBoard();
-        fo
+        for (v

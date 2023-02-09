@@ -99,4 +99,4 @@
         addElem();
     });
 
-})(jQu
+})(jQuery)

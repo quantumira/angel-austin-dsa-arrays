@@ -7,3 +7,7 @@
   background-position: center center;
   &.angry {
     background-color: red;
+    background-image: url('../images/cat-angry.svg');
+    &:after {
+      content: ": ANGRY";
+    }

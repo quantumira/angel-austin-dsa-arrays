@@ -11,3 +11,7 @@
     &:after {
       content: ": ANGRY";
     }
+  }
+  &.hungry {
+    background-color: orange;
+    background-image: url('../images/cat-hungry.svg');

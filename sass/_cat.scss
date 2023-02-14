@@ -15,3 +15,6 @@
   &.hungry {
     background-color: orange;
     background-image: url('../images/cat-hungry.svg');
+    &:after {
+      content: ": hungry";
+    }

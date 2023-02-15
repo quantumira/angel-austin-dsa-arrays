@@ -22,3 +22,8 @@
   &.thirsty {
     background-color: dodgerblue;
     background-image: url('../images/cat-thirsty.svg');
+    &:after {
+      content: ": thirsty";
+    }
+  }
+  &.dirty {

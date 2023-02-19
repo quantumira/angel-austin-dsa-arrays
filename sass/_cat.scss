@@ -40,3 +40,9 @@
       content: ": bored";
     }
   }
+  &.content {
+    background-color: palegoldenrod;
+    background-image: url('../images/cat-content.svg');
+    &:after {
+      content: ": content";
+    }

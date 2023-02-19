@@ -36,3 +36,7 @@
   &.bored {
     background-color: white;
     background-image: url('../images/cat-bored.svg');
+    &:after {
+      content: ": bored";
+    }
+  }

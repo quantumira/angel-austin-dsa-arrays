@@ -50,3 +50,6 @@
   &.happy {
     background-color: yellow;
     background-image: url('../images/cat-happy.svg');
+    &:after {
+      content: ": HAPPY!";
+    }

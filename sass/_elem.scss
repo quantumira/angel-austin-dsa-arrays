@@ -6,3 +6,8 @@
   background-repeat: no-repeat;
   background-position: center center;
   margin-top: 20px;
+  //&.active {
+  //  border-color: lightskyblue;
+  //}
+  &.food {
+    background-image: url(../images/food.svg);
